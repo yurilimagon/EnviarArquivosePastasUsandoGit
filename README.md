@@ -3,19 +3,21 @@ Tutorial de como enviar aquivos e pastas via comandos git
 
 O intuito do tutorial é auxiliar o envio de pastas e arquivos via terminal git.
 
-///////////////COMO ENVIAR ARQUIVOS PARA UM REPOSITÓRIO PUBLICO GITHUB POR GIT///////////////
+      
+      
+      COMO ENVIAR ARQUIVOS PARA UM REPOSITÓRIO PUBLICO GITHUB POR GIT
 
 //  Tutorial de como instalar o git em varios sistemas:
 //  https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao/
 
 //  Criado por: Yuri Lima Gonçalves
 
-//    //Configuração do Git Localmente
-//    //Seu nome completo que vai ser utilizado em qualquer commit.
-//    git config --global.user "Seu Nome e Sobrenome"
+//Configuração do Git Localmente
+//Seu nome completo que vai ser utilizado em qualquer commit.
+git config --global.user "Seu Nome e Sobrenome"
 
-//    //Seu endereço de email que vai ser utilizado em qualquer commit.
-//    git config --global.email "seu@email"
+//Seu endereço de email que vai ser utilizado em qualquer commit.
+git config --global.email "seu@email"
 
 
 
@@ -36,9 +38,7 @@ O intuito do tutorial é auxiliar o envio de pastas e arquivos via terminal git.
 //Adicione um commit (confirmação) nos arquivos que serão enviados.
 3)  git commit -m "Inicialização do MeuProjeto"
 
-//  Utilizar o comando git push para enviar os arquivos.
+//Utilizar o comando git push para enviar os arquivos.
 4) git push
 
 //Em seguida se seu repositório for private seu usuário e senha github serão solicitados.
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////
