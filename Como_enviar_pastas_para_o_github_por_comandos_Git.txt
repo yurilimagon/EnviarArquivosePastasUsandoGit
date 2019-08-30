@@ -14,10 +14,10 @@
 //                                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-0)Acesse um diretório local onde você quer alocar seu repositório clonado (Documentos por exemplo)
+//Acesse um diretório local onde você quer alocar seu repositório clonado (Documentos por exemplo)
 //Abra o terminal e digite o comando abaixo para acessar o diretório criado para alocar seu
 //repositório
-cd Nome_do_Diretório
+0)cd Nome_do_Diretório
 
 //Crie um repositório no site do github ou utilize um já criado.
 
