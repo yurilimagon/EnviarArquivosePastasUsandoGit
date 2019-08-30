@@ -19,19 +19,21 @@
 //repositório
 cd Nome_do_Diretório
 
+//Crie um repositório no site do github ou utilize um já criado.
+
 //Clonar o repositório github desejado para o sei diretório local.
-//Em seguida se seu repositório for private seu usuário e senha github serão solicitados
+//Em seguida se seu repositório for private seu usuário e senha github serão solicitados.
 1)  git clone github.com/usuario/Nome_do_repositorio
 
-//Adicione uma pasta ou arquivo que deseja adicionar no seu repositório
+//Adicione uma pasta ou arquivo que deseja adicionar no seu repositório.
 2)  git add Nome_da_pasta ou Nome_do_arquivo
 
-//Adicione um commit (confirmação) nos arquivos que serão enviados
+//Adicione um commit (confirmação) nos arquivos que serão enviados.
 3)  git commit -m "Inicialização do MeuProjeto"
 
-//  Utilizar o comando git push para enviar os arquivos
+//  Utilizar o comando git push para enviar os arquivos.
 4) git push
 
-//Em seguida se seu repositório for private seu usuário e senha github serão solicitados
+//Em seguida se seu repositório for private seu usuário e senha github serão solicitados.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
