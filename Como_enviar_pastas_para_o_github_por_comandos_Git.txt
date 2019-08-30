@@ -6,10 +6,10 @@
 //  Criado por: Yuri Lima Gonçalves                                                                //
 //                                                                                                 //
 //    //Configuração do Git Localmente                                                             //
-//    //Seu nome completo que vai ser utilizado em qualquer commit (confirmação) recém-criado      //
+//    //Seu nome completo que vai ser utilizado em qualquer commit.                                //
 //    git config --global.user "Seu Nome e Sobrenome"                                              //
 //                                                                                                 //
-//    //Seu endereço de email que vai ser utilizado em qualquer commit (confirmação) recém-criado  //
+//    //Seu endereço de email que vai ser utilizado em qualquer commit.                            //
 //    git config --global.email "seu@email"                                                        //
 //                                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////
