@@ -7,10 +7,10 @@
 //                                                                                                 //
 //    //Configuração do Git Localmente                                                             //
 //    //Seu nome completo que vai ser utilizado em qualquer commit.                                //
-//    git config --global.user "Seu Nome e Sobrenome"                                              //
+//    git config --global user.name "Seu Nome e Sobrenome"                                         //
 //                                                                                                 //
 //    //Seu endereço de email que vai ser utilizado em qualquer commit.                            //
-//    git config --global.email "seu@email"                                                        //
+//    git config --global user.email "seu@email"                                                   //
 //                                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
